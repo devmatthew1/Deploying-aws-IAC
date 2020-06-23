@@ -1,3 +1,5 @@
+# AWS CLOUD FORMATION SCRIPTS
+This repository contains scripts that to create, update and deletes infrastructures on aws 
 *create an s3 bucket with the name : "surelay-page"
 
 *how to run it ?
