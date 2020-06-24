@@ -4,9 +4,13 @@ This repository contains scripts that to create, update and deletes infrastructu
 
 # HOW TO RUN THE SCRIPT
 *To run the IAM secret key for cloudformation
+
 -To create network infrastructures run : 
+
 ./create.sh surelay-udp2 network-infra.yml network-parameters.json
+
 -To create servers run
+
 ./create.sh surelay-ups2-servers server-infra.yml server-parameters.json
 
 # HOW TO TEST
