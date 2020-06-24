@@ -3,7 +3,7 @@ This repository contains scripts that to create, update and deletes infrastructu
 *create an s3 bucket with the name : "surelay-page"
 
 # HOW TO RUN THE SCRIPT
-*To run the IAM secret key for cloudformation
+*Get the IAM secret key for cloudformation from aws
 
 -To create network infrastructures run : 
 
